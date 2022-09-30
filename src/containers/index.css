@@ -1,0 +1,14 @@
+.dashboard-main{
+    display: flex;
+    flex-direction: column;
+}
+.form-control{
+    padding-left: 15px;
+    margin-left: 100px;
+}
+.makePollContainer{
+    margin-top: 20px;
+}
+.navbar{
+    width: 100%;
+}
