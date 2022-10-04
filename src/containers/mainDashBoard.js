@@ -1,6 +1,6 @@
 import "./index.css"
 import Navbar from "../components/navbar";
-import MakePoll from "../components/makePoll";
+import MakePoll from "../components/CreatePoll/makePoll";
 const MainDashboard = () => {
     return(
         <div className='dashboard-main'>
